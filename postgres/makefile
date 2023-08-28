@@ -5,6 +5,6 @@ build:
 up:				
 		docker-compose -f docker-compose.yml up -d
 inter:
-		docker exec -it dbase-postgres-1 psql
+		docker exec -it postgres-container psql
 down:
 		docker-compose -f docker-compose.yml down
