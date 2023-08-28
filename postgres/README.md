@@ -15,3 +15,7 @@ Inter the database shell
 ```make
     make inter
 ```
+Down the container
+```make
+    make down
+```
