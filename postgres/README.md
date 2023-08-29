@@ -1,6 +1,4 @@
-```console
-                postgres in docker
-```
+    PostgreSQL in docker container
 \
 \
 Build the container 
